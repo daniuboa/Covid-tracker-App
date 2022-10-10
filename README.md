@@ -1,4 +1,4 @@
-# Covid Tracker App
+## Covid Tracker App
 
-## Technologies Used
+### Technologies Used
 * VueJs
